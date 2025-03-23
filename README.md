@@ -1,5 +1,3 @@
-# CreativeProfit-Review
-# CreativeProfit Review: The Ultimate PLR Faceless Video Collection for Monetization
 	<div role="button" tabindex="0">
 	  <div><img alt="" width="700" height="327" loading="eager" role="presentation" src="https://miro.medium.com/v2/resize:fit:1050/1*qyAsyqJVQQznqXVa_oSvrQ.png"></div>
 	</div>
@@ -69,4 +67,3 @@
 	<p id="4c98" data-selectable-paragraph="">With&nbsp;<strong>CreativeProfit</strong>, you&rsquo;re not just&nbsp;<strong>buying a product</strong>&nbsp;&mdash; you&rsquo;re investing in&nbsp;<strong>a proven business model</strong>&nbsp;that can generate thousands of dollars month after month.</p>
 	<p id="ca04" data-selectable-paragraph="">&#55357;&#56960;&nbsp;<strong>Don&rsquo;t miss out &mdash; grab your exclusive access to CreativeProfit today and start earning!</strong></p>
 	<p id="38d7" data-selectable-paragraph=""><a href="https://aidigireview.com/creativeprofit-review/" rel="noopener ugc nofollow" target="_blank">Review more on offical website &gt;&gt;</a></p>
-
